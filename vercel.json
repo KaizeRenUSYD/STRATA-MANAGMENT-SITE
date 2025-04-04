@@ -4,6 +4,11 @@
     {
       "src": "/api/kaizeren",
       "dest": "api/kaizeren.js"
+    },
+    {
+      "src": "/",
+      "dest": "/index.html"
     }
   ]
 }
+
